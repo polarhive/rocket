@@ -1,7 +1,7 @@
 # rocket
 
 ``` text
-A simple in browser, HTML5 player for videos hosted on the LBRY network
+> A simple PWA frontend, for videos hosted on the LBRY network
 ```
 
 ## How does it work?
@@ -13,7 +13,7 @@ Uses client side [libre](https://polarhive.ml/blog/free-libre-software) JavaScri
 - [ ] Build a homepage
 - [ ] Add RSS support to check for channel subscriptions & video updates
 - [ ] Build a WebExtension to help redirect
-- [ ] Host it on Codeberg pages
+- [x] Host it on [Codeberg pages](https://polarhive.ml/rocket/)
 
 ### Goals ✨
 
@@ -45,6 +45,7 @@ It shares similar goals, & it might merge with FastLBRY one day, if needed. But 
 No.
 
 ---
-[AGPLv3 or Later](https://www.gnu.org/licenses/agpl-3.0.txt) (C) Nathan Matthew Paul
 
 This repo is hosted on [Codeberg](https://polarhive.ml/knowledge) & on GitHub as a READ-ONLY mirror.
+
+[![license: AGPLv3 or Later](https://polarhive.ml/assets/badges/agpl-3.svg)](https://www.gnu.org/licenses/agpl-3.0.txt)
