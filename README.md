@@ -40,6 +40,10 @@ No.
 
 It shares similar goals, & it might merge with FastLBRY one day, if needed. But currently I'm trying to make a clone of [Invidious](https://github.com/iv-org/invidious) or [Piped](https://github.com/TeamPiped/Piped/) that works locally in a web-browser.
 
+## Librarian
+
+Contribute to [librarian](https://codeberg.org/librarian/librarian) pretty much like rocket but it works server side. 
+
 ## Is this project affiliated with [LBRY](https://lbry.org), [FastLBRY](https://www.notabug.org/jyamihud/FastLBRY-terminal) or [Odysee](https://odysee.com)?
 
 No.
